@@ -9,7 +9,7 @@
 </div>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=44&lines=Building+Mobile+%26+Web+Applications;Crafting+Desktop+%26+Inventory+Systems;Exploring+AI+%2F+RAG+%26+Modern+UI+Engineering;NIM+1124160069+%E2%80%A2+TI+SE+24+Malam" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=44&lines=Building+Mobile+%26+Web+Applications;Crafting+Desktop+%26+Inventory+Systems;Exploring+AI+%2F+RAG+%26+Modern+UI+Engineering;" alt="Typing Animation" />
 
 <br/>
 
