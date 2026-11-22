@@ -19,9 +19,11 @@
 <br/>
 
 <!-- QUICK STATUS STRIP -->
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PROGRAM-SOFTWARE%20ENGINEERING-0f172a?style=for-the-badge&logo=academia&logoColor=38bdf8" alt="Program"/>
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-090d16?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location"/>
 </p>
 
