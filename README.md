@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-090d16?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location"/>
 </p>
 
-</div>
-
 ---
 
 ## ⚡ Complete Technical Arsenal
@@ -62,9 +60,9 @@
         <sub>Aplikasi web, REST/callback &amp; arsitektur sistem</sub>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/PHP_8.1%2F8.2-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/CodeIgniter_3_%26_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-        <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=090d16" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
       </td>
@@ -103,7 +101,7 @@
       <td>
         <img src="https://img.shields.io/badge/LLM_%26_RAG-0ea5e9?style=flat-square&logo=openai&logoColor=white" alt="LLM and RAG"/>
         <img src="https://img.shields.io/badge/Inventory_%26_OPS-1e293b?style=flat-square&logo=databricks&logoColor=38bdf8" alt="Inventory and OPS"/>
-        <img src="https://img.shields.io/badge/PlantUML-38bdf8?style=flat-square&logoColor=090d16" alt="PlantUML"/>
+        <img src="https://img.shields.io/badge/PlantUML-38bdf8?style=flat-square&logo=uml&logoColor=090d16" alt="PlantUML"/>
       </td>
     </tr>
   </tbody>
@@ -124,6 +122,19 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <b>🛒 Toko_Masih_Ada_Kok</b><br/>
+        <sub>Online Store &amp; Category Catalog Web App</sub>
+      </td>
+      <td>
+        <code>CodeIgniter 3</code> <code>PHP</code><br/>
+        <code>MySQL</code> <code>Bootstrap/HTML</code>
+      </td>
+      <td>
+        Aplikasi toko online &amp; kelontong dengan katalog produk, filter/grid kategori, detail produk, keranjang belanja, serta alur checkout/pembayaran lokal (integrasi Midtrans asli belum diaktifkan).
+      </td>
+    </tr>
     <tr>
       <td>
         <b>🧪 ChemicalStockManagement</b><br/>
@@ -185,19 +196,19 @@
 
 <div align="center">
 
-<!-- Animated SVG Language Bar Chart (Customizable / Visual Showcase) -->
+<!-- Animated Section Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:090d16&height=42&section=header&text=LANGUAGE%20DISTRIBUTION%20OVERVIEW&fontSize=15&fontColor=38bdf8" width="100%" alt="Language Overview Header"/>
 
 <br/><br/>
 
-<!-- Dynamic GitHub Most Used Languages Card -->
+<!-- Dynamic GitHub Most Used Languages Card (naikkan nilai v= jika ingin memaksa refresh cache) -->
 <a href="https://github.com/NuxMann">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuxMann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0" alt="GitHub Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuxMann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0&v=2" alt="GitHub Most Used Languages"/>
 </a>
 
 <!-- Animated Streak & Activity Card -->
 <a href="https://github.com/NuxMann">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuxMann&theme=tokyonight&hide_border=true&background=090d16&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NuxMann&theme=tokyonight&hide_border=true&background=090d16&ring=38bdf8&fire=0284c7&currStreakLabel=38bdf8&v=2" alt="GitHub Streak Stats"/>
 </a>
 
 <br/><br/>
@@ -207,7 +218,7 @@
 
 </div>
 
-> **Catatan:** Widget *Top Languages* dan *Streak Stats* otomatis mengikuti statistik repository publik `@NuxMann` di GitHub (pastikan layanan pihak ketiga aktif atau gunakan workflow SVG sendiri jika ingin 100% statis/self-hosted).
+> **Catatan:** Widget *Top Languages* dan *Streak Stats* mengikuti statistik repository **publik** milik `@NuxMann` dan memiliki cache pihak ketiga; pastikan repo baru bersifat *Public*, memiliki commit, dan naikkan parameter `&v=...` bila ingin memicu pembaruan gambar.
 
 ---
 
@@ -218,7 +229,6 @@
 <a href="https://github.com/NuxMann" target="_blank">
   <img src="https://img.shields.io/badge/GITHUB-@NuxMann-090d16?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub Profile"/>
 </a>
-<!-- Ganti URL LinkedIn di bawah dengan URL profil LinkedIn kamu -->
 <a href="https://www.linkedin.com/in/fahry-achmad-wibowo/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-Fahry%20Achmad%20Wibowo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
