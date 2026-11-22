@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:0284c7&height=190&section=header&text=FAHRY%20ACHMAD%20WIBOWO&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Mobile%2C%20Web%2C%20Desktop%20%26%20Applied%20Systems&descAlignY=62&descSize=15" width="100%" alt="Fahry Achmad Wibowo Banner" />
+<!-- ANIMATED WAVE BANNER (NuxMann - Full Stack Developer Enthusiast) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0f172a,100:0284c7&height=210&section=header&text=NuxMann&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Enthusiast&descAlignY=63&descSize=18&animation=fadeIn" width="100%" alt="NuxMann Banner" />
+
+<!-- ANIMATED TYPING SUB-BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I%27m+NuxMann+%F0%9F%91%8B;Full+Stack+Developer+Enthusiast;Building+Modern+Web%2C+Mobile+%26+Desktop+Apps" alt="Typing Animation" />
+
+</div>
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=44&lines=Building+Mobile+%26+Web+Applications;Crafting+Desktop+%26+Inventory+Systems;Exploring+AI+%2F+RAG+%26+Modern+UI+Engineering;NIM+1124160069+%E2%80%A2+TI+SE+24+Malam" alt="Typing Animation" />
