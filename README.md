@@ -203,7 +203,7 @@
 
 <!-- Dynamic GitHub Most Used Languages Card (naikkan nilai v= jika ingin memaksa refresh cache) -->
 <a href="https://github.com/NuxMann">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuxMann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0&v=2" alt="GitHub Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuxMann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0&v=3" alt="GitHub Most Used Languages"/>
 </a>
 
 <!-- Animated Streak & Activity Card -->
